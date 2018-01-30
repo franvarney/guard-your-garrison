@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 4be295c3d03b3413a98b3160606d6582
+timeCreated: 1501324573
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: medusa_arm_L
+    21300002: medusa_arm_R
+    21300004: medusa_body
+    21300006: medusa_hand_1
+    21300008: medusa_hand_2
+    21300010: medusa_head_1
+    21300012: medusa_head_2
+    21300014: medusa_head_3
+    21300016: medusa_shadow
+    21300018: medusa_skirt_1
+    21300020: medusa_skirt_2
+    21300022: medusa_skirt_3
+    21300024: medusa_skirt_4
+    21300026: medusa_weapon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medusa_arm_L
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 13
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_arm_R
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 469
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_body
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 190
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_hand_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 469
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_hand_2
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 13
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_head_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 243
+        width: 306
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_head_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 13
+        width: 286
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_head_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 317
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_shadow
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 13
+        width: 310
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_skirt_1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 196
+        width: 118
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_skirt_2
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 60
+        width: 86
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_skirt_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 190
+        width: 135
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_skirt_4
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 60
+        width: 85
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medusa_weapon
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 60
+        width: 201
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
